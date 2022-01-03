@@ -18,7 +18,6 @@
 
  #### Frontend
  <img src="https://img.shields.io/badge/-react-skyblue"/>
- <img src="https://img.shields.io/badge/-typescript-blue"/>
  <img src="https://img.shields.io/badge/-recoil-green"/>
   
 
