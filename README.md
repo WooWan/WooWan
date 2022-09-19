@@ -11,14 +11,6 @@
 ![github stat](https://github-readme-stats.vercel.app/api?username=WooWan&theme=tokyonight)
 
 
-  ### 🌱 I’m currently interested in ...
-  
-  #### Backend
-<img src="https://img.shields.io/badge/-spring-green"/>
-
- #### Frontend
- <img src="https://img.shields.io/badge/-react-skyblue"/>
- <img src="https://img.shields.io/badge/-recoil-green"/>
   
 
 <!--
