@@ -7,9 +7,8 @@
 	
 ![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woohobi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WooWan)](https://github.com/anuraghazra/github-readme-stats)
 
-![github stat](https://github-readme-stats.vercel.app/api?username=WooWan&theme=tokyonight)
+
 
 <h3>Things I code with</h3>
 <p>
