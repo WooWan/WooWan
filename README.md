@@ -16,8 +16,8 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
   
-### I contributed to 
- - https://github.com/pmndrs/drei/pull/1521
+### Contributed to the following open-source projects:
+ - [react-three/drei](https://github.com/pmndrs/drei/pull/1521)
 
 
 <!--
