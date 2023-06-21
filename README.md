@@ -16,7 +16,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
   
-### Contributed to the following open-source projects:
+### 오픈소스에 기여하고 있습니다🌱:
  - [react-three/drei](https://github.com/pmndrs/drei/pull/1521)
 
 
