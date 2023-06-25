@@ -17,7 +17,7 @@
 </p>
   
 ### 오픈소스에 기여하고 있습니다🌱:
- - [react-three/drei](https://github.com/pmndrs/drei/pull/1521)
+ - [react-three/drei](https://github.com/pmndrs/drei/issues?q=author%3AWooWan)
 
 
 <!--
