@@ -16,8 +16,8 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
   
-### 오픈소스에 기여하고 있습니다🌱:
-오픈소스를 사용하다가 문제나 필요한 기능이 있으면 issue, PR 등을 통해 직접 해결하였습니다
+### Contributing to Open Source🌱:
+If I encounter any issues or need specific features while using open source projects, I have directly addressed them through issues, PRs (Pull Requests), etc.
  - [react-three/drei](https://github.com/pmndrs/drei/issues?q=author%3AWooWan)(⭐️6k+)
  - [wavesurfer-multitrack](https://github.com/katspaugh/wavesurfer-multitrack/pulls?q=author%3AWooWan+)(⭐️7.5k+ plugin)
 
