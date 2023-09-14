@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Strive for your best, not everything is within reach, be graceful to yourself.
 
 #### 💬Blog
 [`양식과 양심을 채우는 블로그` ](https://velog.io/@woohobi)
