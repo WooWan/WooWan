@@ -3,8 +3,6 @@
 #### 💬Blog
 [`양식과 양심을 채우는 블로그` ](https://velog.io/@woohobi)
 
-	
-![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woohobi)
 
 
 
