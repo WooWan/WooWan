@@ -15,10 +15,13 @@
   
 ### Contributing to Open Source🌱:
 When I encounter any issues or need features, I contributed to Open Source
-- [react-native-otp-verify](https://github.com/faizalshap/react-native-otp-verify/pull/109)
- - [react-three/drei](https://github.com/pmndrs/drei/issues?q=author%3AWooWan)(⭐️6k+)
+- [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss/pulls?q=is%3Apr+author%3Awoowan) (⭐️ 5k+ )
+- [react-native-otp-verify](https://github.com/faizalshap/react-native-otp-verify/pull/109) (⭐️ 250+)
+ - [react-three/drei](https://github.com/pmndrs/drei/issues?q=author%3AWooWan)(⭐️ 6k+)
  - [wavesurfer-multitrack](https://github.com/katspaugh/wavesurfer-multitrack/pulls?q=author%3AWooWan+)(⭐️7.5k+ plugin)
 - [garter](https://github.com/green-labs/garter/pulls?q=is%3Apr+author%3Awoowan+is%3Aclosed)(ReScript util library)(⭐️50+)
+- [rescript-core](https://github.com/rescript-association/rescript-core/pulls?q=is%3Apr+author%3Awoowan) (⭐️ 150+)
+- [expo](https://github.com/expo/expo/pull/27551) (⭐️ 30k+)
 
 <!--
 **WooWan/WooWan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
