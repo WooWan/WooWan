@@ -15,13 +15,12 @@
   
 ### Contributing to Open Source🌱:
 When I encounter any issues or need features, I contributed to Open Source
-- [toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=is%3Apr+author%3Awoowan+) (⭐️ 300+ )
 - [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss/pull/277) (⭐️ 5k+ )
-- [react-native-otp-verify](https://github.com/faizalshap/react-native-otp-verify/pull/109) (⭐️ 250+)
- - [react-three/drei](https://github.com/pmndrs/drei/pull/1521)(⭐️ 7k+)
- - [wavesurfer-multitrack](https://github.com/katspaugh/wavesurfer-multitrack/pulls?q=author%3AWooWan+)(⭐️7.5k+ plugin)
 - [garter](https://github.com/green-labs/garter/pull/39)(ReScript util library)(⭐️50+)
-- [rescript-core](https://github.com/rescript-association/rescript-core/pull/224) (⭐️ 150+)
+- [react-native-otp-verify](https://github.com/faizalshap/react-native-otp-verify/pull/109) (⭐️ 250+)
+ - [wavesurfer-multitrack](https://github.com/katspaugh/wavesurfer-multitrack/pulls?q=author%3AWooWan+)(⭐️7.5k+ plugin)
+- [toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=is%3Apr+author%3Awoowan+) (⭐️ 300+ )
+- [react-three/drei](https://github.com/pmndrs/drei/pull/1521)(⭐️ 7k+)
 - [expo](https://github.com/expo/expo/pull/27551) (⭐️ 30k+)
 
 <!--
